@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-    background: #fce7f3;
+    background: hwb(300 53% 24%);
     padding: 40px;
     border-radius: 15px;
     text-align: center;
