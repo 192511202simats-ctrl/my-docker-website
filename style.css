@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-    background: hwb(300 53% 24%);
+    background: hwb(140 53% 24%);
     padding: 40px;
     border-radius: 15px;
     text-align: center;
@@ -20,7 +20,7 @@ body {
 }
 
 h1 {
-    color: #d8cc1d;
+    color: #d81da9;
 }
 
 p {
